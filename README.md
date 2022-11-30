@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suleyman</h1>
 
+<p align="center">
 Hi, I’m Suleyman, a full-stack software engineer based in Turkiye. I research, learn, write, implement about modern web frameworks, programming languages, and software development. I try to share about everything I have learned and know. I'm trying to use this repository as a place to document and store everything I've learned. I hope it contains something interesting for you and will be useful to you.
+</p>
 
 ---
 
 ### What Am I Doing?
 
 - 🔭 I’m currently working on generally .NET/React related projects on my daily job.
-- 🌱 I’m currently learning the Web3.
+- 🌱 I’m currently learning Web3.
 
 ---
 
